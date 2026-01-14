@@ -8,7 +8,7 @@ I build clean, responsive, and user-focused web applications using modern fronte
 ---
 
 ### 🔹 About Me
-- 🔭 Currently working on <b>Gitfit Gym Equipment Website</b>  
+- 🔭 Currently working on <b>Creating Websites Based on client Needs</b>  
 - 🌱 Learning <b>Django Framework</b>  
 - 👯 Open to collaboration on <b>Website Development</b>  
 - 🤝 Looking for help with <b>Getfit Project</b>  
