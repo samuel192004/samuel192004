@@ -74,9 +74,6 @@ I build clean, responsive, and user-focused web applications using modern fronte
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </a>
 
-<a href="https://www.rabbitmq.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
-</a>
 
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
